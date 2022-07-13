@@ -19,6 +19,10 @@
 ![Next](https://img.shields.io/badge/next-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/nuxt-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Handlebars](https://img.shields.io/badge/handlebars-91471c?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-2aaee9?style=for-the-badge&logo=flutter&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Adonis](https://img.shields.io/badge/Adonis-20232A?style=for-the-badge&logo=adonis&logoColor=61DAFB)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,6 +31,8 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-035494?style=for-the-badge&logo=C&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2aaee9?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Other
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
@@ -51,7 +57,7 @@
 # <img src="gifs/rocket.gif" width="70"> Github stats
 
 <p align="center" width="100%">
-    <img alt="status github, commits, etc..." height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=LOFyz&count_private=true&show_icons=true&custom_title=Github&theme=dracula&layout=compact&border_radius=8"
+    <img alt="status github, commits, etc..." height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=LOFyz&count_private=true&show_icons=true&custom_title=Github&theme=dracula&layout=compact&border_radius=8"
     />
-    <img alt="most used languages" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOFyz&count_private=true&theme=dracula&custom_title=Languages&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
+    <img alt="most used languages" height="200px" width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOFyz&count_private=true&theme=dracula&custom_title=Languages&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p>
