@@ -61,3 +61,5 @@
     />
     <img alt="most used languages" height="200px" width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOFyz&count_private=true&theme=dracula&custom_title=Languages&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p>
+
+<img src="svgs/github-user-contribution.svg">
