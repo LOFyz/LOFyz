@@ -4,11 +4,11 @@
 
 ## 📫 How to reach me:
 
-<a href="mailto:leonardo_farias2010@hotmail.com">
-    <img alt="eMail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:leonardooliveiraamaral@outlook.com" target="_blank">
+    <img alt="e-mail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/leonardoliveira-farias/">
-    <img src="https://img.shields.io/badge/Leonardo%20Oliveira-0e76a8?style=for-the-badge&logo=Linkedin" />
+<a href="https://www.linkedin.com/in/leonardooliveiraamaral/" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/Leonardo%20Oliveira-0e76a8?style=for-the-badge&logo=Linkedin" />
 </a>
 
 <br/>
@@ -35,6 +35,7 @@
 ![Dart](https://img.shields.io/badge/Dart-2aaee9?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Other
+![TailwindCSS](https://img.shields.io/badge/Tailwind-7952B3?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
