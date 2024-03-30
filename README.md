@@ -1,4 +1,4 @@
-<img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=LOFyz&theme=dracula&column=8&no-frame=true" />
+<p align="center" width="100%"><img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=LOFyz&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A,B" /></p>
 
 <br/>
 
